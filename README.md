@@ -1,2 +1,2 @@
-# btruss
+# BTruss
 NestJS Microservices Boilerplate
